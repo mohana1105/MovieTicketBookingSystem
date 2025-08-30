@@ -17,4 +17,4 @@ A simple **Command-Line Interface (CLI)** application built with **Python** and 
 Open a terminal in the project folder and run:
 
 ```bash
-python main.py
+py main.py
