@@ -448,7 +448,7 @@ def main() -> None:
                 cancel_my_booking(conn)
                 pause()
         elif choice == "0":
-            print("Bye! 👋")
+            print("Bye! 👋, WELCOME AGAIN!!")
             break
         else:
             print("Invalid option. Try again.\n")
